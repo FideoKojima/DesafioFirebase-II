@@ -41,8 +41,8 @@ Una aplicación de demostración robusta que implementa autenticación de usuari
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/vue-firebase-auth.git
-cd vue-firebase-auth
+git clone https://github.com/FideoKojima/DesafioFirebase-II.git
+cd vue-DesafioFirebase-II
 ```
 
 2. **Instalar dependencias**
@@ -145,13 +145,9 @@ firebase deploy
 4. Push al Branch (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles
-
 ## 👥 Autor
 
-Tu Nombre - [@tuTwitter](https://twitter.com/tuTwitter)
+Luis Suarez
 
 ## 🙏 Agradecimientos
 
