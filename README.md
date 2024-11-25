@@ -19,7 +19,7 @@ Una aplicación de demostración robusta que implementa autenticación de usuari
 
 ## 🚀 Demo en vivo
 
-[Ver Demo](https://tu-proyecto.firebaseapp.com)
+[Vista Previa del Proyecto](https://desafio-firebase-ii.vercel.app/)
 
 ## 🛠️ Tecnologías Utilizadas
 
